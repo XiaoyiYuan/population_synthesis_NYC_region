@@ -1,4 +1,4 @@
-This project is supported by the Center for Social Complexity at George Mason University and the Defense Threat Research Agency (DTRA) under Grant number HDTRA1-16-0043. The opinions, findings, conclusions or recommendations expressed in this work are those of the researchers and do not necessarily reflect the views of the sponsors.
+This project is supported by the Center for Social Complexity at George Mason University and the Defense Threat Reduction Agency (DTRA) under Grant number HDTRA1-16-0043. The opinions, findings, conclusions or recommendations expressed in this work are those of the researchers and do not necessarily reflect the views of the sponsors.
 
 The Python code include population sysnthesis based on 2010 U.S. Census data:
 
